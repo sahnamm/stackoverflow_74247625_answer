@@ -14,4 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 # stackoverflow_74247625_answer
+
+- Flutter version 3.0.5
+- Answer for https://stackoverflow.com/questions/74247625/how-to-display-data-fetched-from-newsapi-into-cards-in-another-dart-file-in-flut
